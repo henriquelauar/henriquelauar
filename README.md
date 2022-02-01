@@ -22,4 +22,5 @@
   <img align="center" alt="Henrique-Next" height="30" width="80" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)">  
 </div>
 
-  ![Snake animation](https://github.com/henriquelauar/henriquelauar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/henriquelauar/henriquelauar/blob/output/github-contribution-grid-snake.svg)
+ 
