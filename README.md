@@ -15,12 +15,15 @@
 </div>
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Henrique-Next" height="30" width="80" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)">  
-</div>
+<p align="left">
+   <img src="./icons/html.png">&nbsp;
+  <img src="./icons/css.png">&nbsp;
+  <img src="./icons/js.png">&nbsp;
+  <img src="./icons/react.png">&nbsp;
+  <img src="./icons/nextJS.png">&nbsp;
+  <img src="./icons/git.png">&nbsp;
+  <img src="./icons/nodejs.png">&nbsp;
+</p>
 
 ![Snake animation](https://github.com/henriquelauar/henriquelauar/blob/output/github-contribution-grid-snake.svg)
  
